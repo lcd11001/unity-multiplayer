@@ -1,0 +1,19 @@
+{
+  "name": "colyseus_server",
+  "version": "1.0.0",
+  "description": "demo Unity multiplayer with Colyseus server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcd11001/unity-multiplayer.git"
+  },
+  "author": "Luong Cong Dan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcd11001/unity-multiplayer/issues"
+  },
+  "homepage": "https://github.com/lcd11001/unity-multiplayer#readme"
+}
